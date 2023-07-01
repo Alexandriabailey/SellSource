@@ -1,4 +1,5 @@
-// SaleSorcerer Plugin by alexbailey
+// Rename plugin config file Sellsource
+// Rename the plugin sellsource // SaleSorcerer Plugin by alexbailey
 
 // Import necessary modules
 const ui = require('ui');
@@ -15,7 +16,7 @@ if (!fs.existsSync(dataFolderPath)) {
 }
 
 // Define the path to the config file
-const configPath = path.join(dataFolderPath, 'config.json');
+const configPath = path.join(dataFolderPath, 'sellsource.json');
 
 // Check if the config file exists, otherwise create it with default values
 if (!fs.existsSync(configPath)) {
