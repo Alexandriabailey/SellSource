@@ -9,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the path to the plugin data folder
-const dataFolderPath = path.join(__dirname, 'containers' 'plugin_data');
+const dataFolderPath = path.join(__dirname, 'home', 'containers', 'plugin_data');
 
 // Create the plugin data folder if it doesn't exist
 if (!fs.existsSync(dataFolderPath)) {
