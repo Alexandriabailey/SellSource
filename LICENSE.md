@@ -1,5 +1,8 @@
-All Rights Disclaimed.
-This plugin, developed by
+> OpenCode Commons License 
+- > License Create By Owner Of Code With Guidance of a professional Consultant
+> ===================
+> **All Rights Disclaimed.**
+>  This plugin, developed by
 Alexandria Bailey, is made
 available to the public
 without any reservation of
