@@ -1,5 +1,6 @@
 // Rename plugin config file Sellsource
-// Rename the plugin sellsource // SaleSorcerer Plugin by alexbailey
+// Rename the plugin sellsource
+// SaleSorcerer Plugin by alexbailey
 
 // Import necessary modules
 const ui = require('ui');
@@ -8,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Define the path to the plugin data folder
-const dataFolderPath = path.join(__dirname, 'data');
+const dataFolderPath = path.join(__dirname, 'plugin_data');
 
 // Create the plugin data folder if it doesn't exist
 if (!fs.existsSync(dataFolderPath)) {
